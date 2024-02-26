@@ -1,0 +1,29 @@
+.action-button {
+    cursor: pointer;
+
+    margin: 50px auto 0;
+    padding: 19px 127px;
+
+    border: none;
+    border-radius: 33px;
+
+    font-size: 23px;
+    color: var(--primary-color);
+    font-weight: 500;
+
+    background-color: var(--action-color);
+
+}
+
+.secondary-button {
+    cursor: pointer;
+
+    padding: 12px 38px;
+
+    color: var(--primary-color);
+    font-size: 16px;
+    
+    border: 1px solid var(--action-color);
+    border-radius: 33px;
+    background: transparent;
+}
