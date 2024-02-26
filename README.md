@@ -1,8 +1,6 @@
-# React + Vite
+# DeployCloud Proyect
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+To initialize the build, once the repository is cloned, you must follow the following steps (Make sure you are at the root of the project):
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. npm i
+2. npm run dev
